@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/frente-pb.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "NIKKO"
-  content : "Culinária tradicional japonesa com toques inovadores."
+  content : "sobre"
   button:
     enable : true
     label : "VENHA CONHECER"
